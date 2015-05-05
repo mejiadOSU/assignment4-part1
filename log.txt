@@ -1,0 +1,27 @@
+Start: Mon, 27 Apr 2015 19:00:00 -0800
+End: Mon, 27 Apr 2015 22:45:00 -0800
+Tasks: watched videos and read the reading web sites.
+
+Start: Tue, 28 Apr 2015 19:00:00 -0800
+End: Tue, 28 Apr 2015 23:59:00 -0800
+Tasks: Started working on table get html file
+
+Start: Wed, 29 Apr 2015 18:45:00 -0800
+End: Wed, 29 Apr 2015 22:59:00 -0800
+Tasks: Started on the loopback php file
+
+Start: Thu, 30 Apr 2015 19:00:00 -0800
+End: Thu, 30 Apr 2015 22:59:00 -0800
+Tasks: read through sessions again couldnt understand how to stop errors
+
+Start: Fri, 1 May 2015 19:00:00 -0800
+End: Fri, 1 May 2015 23:59:00 -0800
+Tasks: Session loggin started to work but now cant carry to new files
+
+Start: Sat, 2 May 2015 19:00:00 -0800
+End: Sun, 3 May 2015 22:45:00 -0800
+Tasks: Worked on getting user name right for every page
+
+Start: Mon, 4 May 2015 20:30:00 -0800
+End: Tue, 5 May 2015 00:30:00 -0800
+Tasks: cleaned up errors and submitted
